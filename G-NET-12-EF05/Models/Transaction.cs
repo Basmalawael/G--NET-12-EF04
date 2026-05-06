@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF05.Models
 {
     public class Transaction
-    { 
+    {  
         public int TransactionNumber { get; set; }
         public DateTime TransactionDate { get; set; }
         public decimal Amount { get; set; }
