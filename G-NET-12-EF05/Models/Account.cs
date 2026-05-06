@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF05.Models
 {
     public class Account
-    {  
+    {   
         public int AccountNumber { get; set; }
         public decimal CurrentBalance { get; set; }
         public string AccountType { get; set; }

@@ -11,7 +11,7 @@ namespace G_NET_12_EF05
     {  
         static void Main(string[] args) 
         { 
-            #region Bank :
+            #region Bank : 
 
             using AppDbContext db = new AppDbContext();
 

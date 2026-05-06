@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF05.Models
 {
     public class Customer
-    {
+    { 
         public int Id { get; set; }
         public string Address { get; set; }
         public DateTime DateOfBirth { get; set; }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF05.Models
 {
     public class Branch
-    {
+    { 
         public int Code { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
