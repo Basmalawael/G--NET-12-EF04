@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF05.Models
 {
     public class CustomerAccount
-    {
+    { 
         public int CustomerId { get; set; } //FK Table Cust
         public int AccountAccountNumber { get; set; } //FK Table Account 
 
