@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace G_NET_12_EF05
 {
     public class AppDbContext : DbContext
-    {
+    { 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
